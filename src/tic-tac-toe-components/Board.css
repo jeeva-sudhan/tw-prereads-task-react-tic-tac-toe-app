@@ -1,0 +1,15 @@
+.tic-tac-toe {
+    margin-top: 250px;
+    margin-left: 650px;
+}
+
+.square {
+    border: 1px solid rgba(128, 128, 128, 0.619);
+    height: 50px;
+    width:50px;
+  }
+  
+  .board-row {
+    display: flex;
+    flex-direction: row;
+  }
